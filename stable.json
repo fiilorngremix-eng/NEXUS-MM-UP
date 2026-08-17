@@ -4,8 +4,8 @@
     "files": [
       {
         "path": "NEXUS_MMO.exe",
-        "sha256": "334325e0e95a9cecc961fe90f2a2a9c723f26155ebfa7bf1bb2e3bb516f0f1ae",
-        "size": 260671659
+        "sha256": "3cac300d1a5bf48d098a84a3fd82f2ff618922a70e04ed3a3712df0af828c1aa",
+        "size": 267724966
       },
       {
         "path": "README.txt",
@@ -19,17 +19,17 @@
       }
     ],
     "mandatory": false,
-    "notes": "Initial signed NEXUS MMO customer release and remote repair baseline.",
+    "notes": "NEXUS MMO v3.0.1 Download fix update",
     "package": {
       "format": "zip",
-      "sha256": "c6ec5d6cf681ab803130fa2a0b95af978b9e7567efdffd5b353e25916f0550bd",
-      "size": 259088184,
-      "url": "https://github.com/fiilorngremix-eng/NEXUS-MM-UP/releases/download/v3.0.0-mmo/NEXUS_MMO_3.0.0-mmo.zip"
+      "sha256": "df5d1a5b1524dc277edec76960c6458729fb068d763b469aeea4ab9800d5d911",
+      "size": 266007431,
+      "url": "https://github.com/fiilorngremix-eng/NEXUS-MM-UP/releases/download/v3.0.1-mmo/NEXUS_MMO_v3.0.1-mmo.zip"
     },
     "product": "NEXUS MMO",
-    "published_at": "2026-08-14T08:39:21Z",
+    "published_at": "2026-08-17T08:05:06Z",
     "schema": 1,
-    "version": "3.0.0-mmo"
+    "version": "v3.0.1-mmo"
   },
-  "signature": "3aBNmOpDoEQnsgmz40b7gNR0sNzUWxWaxi1wdhU-95SJoJN9k_OW-TX910ztn32k46iYWGHcpl90jQ38MB_sBg"
+  "signature": "EREF_BlXCFXkh0u1Dz0SVUlXpJ6G2y9ku3W3yrxZWSchtpehiPMOBmxXDgDZ4lJYQ_SEVIV4giAxa_pDAeiBAw"
 }
